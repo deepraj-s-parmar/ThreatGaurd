@@ -1,15 +1,19 @@
-# FraudShield AI
-### Real-Time AI Protection Against Digital Scams
+# ThreatGuard AI
+
+### AI-Powered Scam Detection and Protection
+
 > **DETECT • UNDERSTAND • PROTECT**
-> 
+>
 > *Designed for the Maxim Code AI Software Innovation Competition.*
 
 ---
 
-## 🚀 Live Demonstration Links
-- 🌐 **Web Demo Interface**: [https://fraudshield-ai-q7ug.onrender.com/demo/](https://fraudshield-ai-q7ug.onrender.com/demo/)
-- 📄 **API Documentation (Swagger UI)**: [https://fraudshield-ai-q7ug.onrender.com/docs](https://fraudshield-ai-q7ug.onrender.com/docs)
-- ⚙️ **Production Backend API**: [https://fraudshield-ai-q7ug.onrender.com](https://fraudshield-ai-q7ug.onrender.com)
+## 🚀 Project Access
+
+- 🌐 **Local Web Demo**: http://localhost:8000/demo/
+- 📄 **API Documentation**: http://localhost:8000/docs
+
+Run the FastAPI backend locally to access these links.
 
 ---
 
@@ -203,7 +207,7 @@ FIREBASE_ENABLED=false
 ---
 
 ## 13. Team & Competition
-- **Project**: FraudShield AI
+- **Project**: ThreatGaurd
 - **Competition**: Maxim Code AI Software Innovation Competition
 - **Team**: Students Innovation Team
 - **License**: MIT License
