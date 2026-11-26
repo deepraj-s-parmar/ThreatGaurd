@@ -23,11 +23,11 @@ India is experiencing a massive increase in cyber fraud, particularly **"Digital
 The core challenge isn't simply a lack of awareness; it is **timing**. Most victims realize they have been scammed only **AFTER** their money has been transferred. There is a critical lack of real-time intervention at the exact moment the suspicious communication is taking place.
 
 ## 2. Solution
-**FraudShield AI** is an AI-powered real-time scam detection and user protection platform. It provides an immediate warning at the moment suspicious communication is analyzed. 
+**ThreatGuard AI** is an AI-powered real-time scam detection and user protection platform. It provides an immediate warning at the moment suspicious communication is analyzed. 
 
 Instead of acting as a generic educational chatbot or a post-facto security dashboard, FraudShield AI focuses entirely on **"Intervention before financial loss."**
 
-## 3. Why FraudShield AI Stands Out
+## 3. Why ThreatGuard AI Stands Out
 - **Innovation**: Real-time scam intelligence pipeline instead of a generic chat interface.
 - **Problem Solving**: Focuses on the exact moment of pressure to intercept financial transactions.
 - **Explainable AI (XAI)**: Displays why a message was flagged, listing specific red flags, a risk score, and plain-language reasoning.
@@ -58,7 +58,7 @@ The platform implements a distinct four-stage workflow:
 ---
 
 ## 6. AI Architecture & Risk Scoring
-FraudShield AI operates a hybrid intelligence layer:
+ThreatGuard AI operates a hybrid intelligence layer:
 
 ```
 Context Analysis ──> Pattern Detection ──> Scam Classification ──> Risk Scoring ──> Explainable Alert
@@ -121,7 +121,7 @@ The project contains 6 preset demo scenarios in the database:
 
 ## 10. Project Structure
 ```
-FraudShield-AI/
+ThreatGuard AI/
 │
 ├── android-app/             # Kotlin + Compose Android app
 │   ├── app/                 # Jetpack Compose UI, Retrofit API client
